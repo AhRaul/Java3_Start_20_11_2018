@@ -16,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/git/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
               <folding>
                 <element signature="docComment;class#Main#0" />
                 <element signature="docComment;method#changePlace#0;class#Main#0" />
@@ -32,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/git/Box.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
               <folding>
                 <element signature="docComment;class#Box#0" />
                 <element signature="docComment;method#Box#0;class#Box#0" />
@@ -101,8 +101,8 @@
         <option value="$PROJECT_DIR$/src/ru/geekbrains/git/Apple.java" />
         <option value="$PROJECT_DIR$/src/ru/geekbrains/git/Orange.java" />
         <option value="$PROJECT_DIR$/src/ru/geekbrains/git/Fruit.java" />
-        <option value="$PROJECT_DIR$/src/ru/geekbrains/git/Main.java" />
         <option value="$PROJECT_DIR$/src/ru/geekbrains/git/Box.java" />
+        <option value="$PROJECT_DIR$/src/ru/geekbrains/git/Main.java" />
       </list>
     </option>
   </component>
@@ -117,8 +117,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,7 +140,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,6 +188,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="917" y="10" width="976" height="1013" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -197,12 +198,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34514287" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34514287" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24017467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24563318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -226,6 +227,70 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/git/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <folding>
+            <element signature="docComment;class#Main#0" />
+            <element signature="docComment;method#changePlace#0;class#Main#0" />
+            <element signature="method#changePlace#0;class#Main#0" />
+            <element signature="docComment;method#convertToArrayList#0;class#Main#0" />
+            <element signature="method#convertToArrayList#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/git/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <folding>
+            <element signature="docComment;class#Box#0" />
+            <element signature="docComment;method#Box#0;class#Box#0" />
+            <element signature="method#Box#0;class#Box#0" />
+            <element signature="docComment;method#getWeight#0;class#Box#0" />
+            <element signature="docComment;method#compare#0;class#Box#0" />
+            <element signature="docComment;method#getFruits#0;class#Box#0" />
+            <element signature="docComment;method#removeFruits#0;class#Box#0" />
+            <element signature="docComment;method#replace#0;class#Box#0" />
+            <element signature="method#replace#0;class#Box#0" />
+            <element signature="docComment;method#addFruit#0;class#Box#0" />
+            <element signature="method#addFruit#0;class#Box#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/git/Orange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="14" />
+          <folding>
+            <element signature="docComment;class#Orange#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/git/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="docComment;class#Apple#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/git/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="9" />
+          <folding>
+            <element signature="docComment;class#Fruit#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/git/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -649,7 +714,7 @@
     <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/git/Box.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
           <folding>
             <element signature="docComment;class#Box#0" />
             <element signature="docComment;method#Box#0;class#Box#0" />
@@ -669,7 +734,7 @@
     <entry file="file://$PROJECT_DIR$/src/ru/geekbrains/git/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
           <folding>
             <element signature="docComment;class#Main#0" />
             <element signature="docComment;method#changePlace#0;class#Main#0" />

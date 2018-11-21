@@ -30,7 +30,6 @@ import java.util.ArrayList;
  */
 
 public class Main {
-
     public static void main(String[] args) {
         //проверка з1
         String[] mas = {"s", "t", "r", "i", "n", "g"};
