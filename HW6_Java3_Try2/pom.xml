@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>HW5_Java3_try2</groupId>
-    <artifactId>HW5_Java3__try2</artifactId>
+    <groupId>HW6_Java3_Try2</groupId>
+    <artifactId>HW6_Java3_Try2</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>

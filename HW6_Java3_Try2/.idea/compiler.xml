@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="HW5_Java3__try2" />
+        <module name="HW6_Java3_Try2" />
       </profile>
     </annotationProcessing>
   </component>
